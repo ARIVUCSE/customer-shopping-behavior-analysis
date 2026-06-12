@@ -1,4 +1,4 @@
-    Customer Shopping Behavior Analysis
+## Customer Shopping Behavior Analysis
 
 ## Overview
 
@@ -51,8 +51,6 @@ Built an interactive Power BI dashboard to visualize:
 
 ## Project Structure
 
-Customer_Shopping_Behavior/
-│
 ├── customer_shopping_behavior_pyscript.ipynb
 ├── customer_behavior_dashboard.pbix
 ├── SQL_Queries.sql
